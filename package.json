@@ -1,0 +1,9 @@
+{
+  "name": "@intvirtue/addresses",
+  "type": "module",
+  "version": "0.6.0",
+  "description": "intvirtue addresses",
+  "main": "index.js",
+  "repository": "https://github.com/intvirtue/addresses.git",
+  "license": "MIT"
+}
